@@ -9,7 +9,7 @@ The goals / steps of this project are the following:
 [image1]: ./Output/CTE_Vs_Time.png
 [image2]: ./Output/Steer_Value_Vs_Time.png 
 [image3]: ./Output/Angle_Vs_TIme.png
-[video1]: ./Output/Term2_P4_Output.mp4
+
 ---
 ### Writeup / README
 In this project vehicle in the simulator is controlled using PID Controller, the main task is to tune the Kp,Ki,Kd parameters of PID Controller such that the vehcile does not cross the road limits. Source code provided by "UDACITY CarND PID Control Project" was used as base for this project. 
@@ -67,9 +67,8 @@ Following picutres the trend of Angle , Steering Value and CTE over time.
 
 ![alt text][image3]
 
-- Simulator and Command Prompt Recording.
+- Simulator and Command Prompt Recording can be found [here]("./Output/Term2_P4_Output.mp4").
 
-![alt text][video1]
 
 ## Result:
 Kp: 0.1 , Ki: 0.005 , Kd: 0.6. I have recorded the video it can be found in output folder.
