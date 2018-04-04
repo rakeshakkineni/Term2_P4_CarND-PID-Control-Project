@@ -68,4 +68,4 @@ Following picutres the trend of Angle , Steering Value and CTE over time.
 ![alt text][image3]
 
 ## Result:
-Kp: 0.1 , Ki: 0.005 , Kd: 0.6.
+Kp: 0.1 , Ki: 0.005 , Kd: 0.6. I have recorded the video because of huge file size (70MB) i am unable to upload it to Github
